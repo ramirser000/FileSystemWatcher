@@ -1,0 +1,9 @@
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csprojResolveAssemblyReference.cache
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Properties.Resources.resources
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.GenerateResource.Cache
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb
+c:\users\ramir\onedrive\documents\visual studio 2015\Projects\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.Form1.resources
